@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+bin/
+.classpath
+.project
+.settings/
+*.log
+=======
 .metadata
 bin/
 tmp/
@@ -54,3 +61,4 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
+>>>>>>> 8cf243b09f7941159666acc0dcb5436e0398916a
